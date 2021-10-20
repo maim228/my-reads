@@ -12,4 +12,6 @@
 * show preview for your books
 * and more ....
 
-### all codes in this project writeen by me in udacity react ND project
+### Preview
+
+##### [Live Demo](https://my-reads-books.netlify.app)
