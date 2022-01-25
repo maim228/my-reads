@@ -14,4 +14,4 @@
 
 ### Preview
 
-##### [Live Demo](https://my-reads-books.netlify.app)
+##### [Live Demo](https://maim.dev/land/myreads/)
